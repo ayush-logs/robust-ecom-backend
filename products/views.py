@@ -1,4 +1,3 @@
-from django.views.decorators.csrf import csrf_exempt
 from rest_framework.viewsets import ModelViewSet, ReadOnlyModelViewSet
 from rest_framework import generics
 
