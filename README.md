@@ -21,6 +21,21 @@ git clone https://github.com/ayush-logs/robust-ecom-backend.git
 cd robust-ecom-backend
 ```
 
+Install the Requirements: 
+
+```bash
+pip install -r requirements.txt
+```
+
+Configure the Environment Settings: 
+```bash
+# creates new .env file
+touch .env 
+
+# example .env file for reference
+nano .env.example
+```
+
 ---
 
 ## Features
@@ -28,20 +43,32 @@ cd robust-ecom-backend
 - Category Management
 - Authentication
 
+---
+
 ## Environment Variables
 coming soon...
+
+---
 
 ## Deployment
 coming soon...
 
+---
+
 ## Tests
 coming soon...
+
+---
 
 ## Screenshots / Demo
 coming soon...
 
+---
+
 ## Architecture Notes
 coming soon...
 
+---
+
 ## Future Improvements
-coming soon...
+coming soon... 
